@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|c:\\users\\lab_services_student\\downloads\\eventeasen#5\\eventeasen#5\\views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|solutionrelative:eventeasen#5\\views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\eventeasen#5\\views\\venue\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|solutionrelative:eventeasen#5\\views\\venue\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\eventeasen#5\\views\\venue\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|solutionrelative:eventeasen#5\\views\\venue\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\eventeasen#5\\views\\home\\venue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|solutionrelative:eventeasen#5\\views\\home\\venue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\eventeasen#5\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|solutionrelative:eventeasen#5\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\eventeasen#5\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|solutionrelative:eventeasen#5\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\eventeasen#5\\views\\venue\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|solutionrelative:eventeasen#5\\views\\venue\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\eventeasen#5\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|solutionrelative:eventeasen#5\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\eventeasen#5\\models\\eventease5db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|solutionrelative:eventeasen#5\\models\\eventease5db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\eventeasen#5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|solutionrelative:eventeasen#5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\eventeasen#5\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|solutionrelative:eventeasen#5\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\eventeasen#5\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|solutionrelative:eventeasen#5\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\eventeasen#5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|solutionrelative:eventeasen#5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\eventeasen#5\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|solutionrelative:eventeasen#5\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\eventeasen#5\\views\\home\\events.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|solutionrelative:eventeasen#5\\views\\home\\events.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\eventeasen#5\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{91B5F036-78EC-4716-968A-39D8756B3ECA}|EVENTEASEN#5\\EVENTEASEN#5.csproj|solutionrelative:eventeasen#5\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Views\\Venue\\Index.cshtml",
+              "RelativeDocumentMoniker": "EVENTEASEN#5\\Views\\Venue\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Views\\Venue\\Index.cshtml",
+              "RelativeToolTip": "EVENTEASEN#5\\Views\\Venue\\Index.cshtml",
+              "ViewState": "AgIAABgAAACgmZmZmVkqwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T19:03:56.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\favicon.ico",
+              "RelativeDocumentMoniker": "EVENTEASEN#5\\favicon.ico",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "RelativeToolTip": "EVENTEASEN#5\\favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-04-08T17:39:44.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Views\\Web.config",
+              "RelativeDocumentMoniker": "EVENTEASEN#5\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Views\\Web.config",
+              "RelativeToolTip": "EVENTEASEN#5\\Views\\Web.config",
+              "ViewState": "AgIAAB0AAAAAZmZmZqYowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-08T17:38:15.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Venue.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Views\\Home\\Venue.cshtml",
+              "RelativeDocumentMoniker": "EVENTEASEN#5\\Views\\Home\\Venue.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Views\\Home\\Venue.cshtml",
+              "RelativeToolTip": "EVENTEASEN#5\\Views\\Home\\Venue.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T17:34:31.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EVENTEASEN#5\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EVENTEASEN#5\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T17:38:13.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Views\\Venue\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EVENTEASEN#5\\Views\\Venue\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Views\\Venue\\Edit.cshtml",
+              "RelativeToolTip": "EVENTEASEN#5\\Views\\Venue\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAA4MzMzM5MwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T19:02:26.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Views\\Venue\\Create.cshtml",
+              "RelativeDocumentMoniker": "EVENTEASEN#5\\Views\\Venue\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Views\\Venue\\Create.cshtml",
+              "RelativeToolTip": "EVENTEASEN#5\\Views\\Venue\\Create.cshtml",
+              "ViewState": "AgIAABMAAADAAAAAAIAZwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T19:02:31.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EVENTEASEN#5\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EVENTEASEN#5\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T17:42:28.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventEase5DB.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Models\\EventEase5DB.cs",
+              "RelativeDocumentMoniker": "EVENTEASEN#5\\Models\\EventEase5DB.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Models\\EventEase5DB.cs",
+              "RelativeToolTip": "EVENTEASEN#5\\Models\\EventEase5DB.cs",
+              "ViewState": "AgIAAAgAAACAMzMzMzMKwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:54:35.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VenueController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Controllers\\VenueController.cs",
+              "RelativeDocumentMoniker": "EVENTEASEN#5\\Controllers\\VenueController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Controllers\\VenueController.cs",
+              "RelativeToolTip": "EVENTEASEN#5\\Controllers\\VenueController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:00:32.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Views\\Venue\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EVENTEASEN#5\\Views\\Venue\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Views\\Venue\\Delete.cshtml",
+              "RelativeToolTip": "EVENTEASEN#5\\Views\\Venue\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T19:02:35.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Web.config",
+              "RelativeDocumentMoniker": "EVENTEASEN#5\\Web.config",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Web.config",
+              "RelativeToolTip": "EVENTEASEN#5\\Web.config",
+              "ViewState": "AgIAADIAAACAMzMzM7MSwD8AAADUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-08T18:41:01.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EVENTEASEN#5\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EVENTEASEN#5\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T17:35:59.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EVENTEASEN#5\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EVENTEASEN#5\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowCEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:32:49.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "EVENTEASEN#5\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "EVENTEASEN#5\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAQAAADQ/////38ZwBIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:02:31.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Events.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Views\\Home\\Events.cshtml",
+              "RelativeDocumentMoniker": "EVENTEASEN#5\\Views\\Home\\Events.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\EVENTEASEN#5\\EVENTEASEN#5\\Views\\Home\\Events.cshtml",
+              "RelativeToolTip": "EVENTEASEN#5\\Views\\Home\\Events.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T17:34:40.656Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
